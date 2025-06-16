@@ -1,0 +1,12 @@
+<?= $this->extend('layout/template'); ?>
+<?= $this->section('content'); ?>
+
+<!-- Begin Page Content -->
+<div class="container-fluid">
+
+    <!-- Page Heading -->
+    <h1 class="h3 mb-4 text-gray-800">HALAMAN KOSONG</h1>
+
+</div>
+
+<?= $this->endSection(); ?>

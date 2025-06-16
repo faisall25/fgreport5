@@ -1,0 +1,7 @@
+#alert-success {
+    transition: opacity 0.5s ease-out;
+}
+
+.alert-hidden {
+    display: none !important;
+}
